@@ -1,0 +1,16 @@
+{
+  "name": "avanish",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "avanish",
+  "license": "ISC",
+  "description": "this is node practice project for backend concept",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
